@@ -17,8 +17,8 @@ I'm **Ramez Chreide**, a passionate **Full Stack Web Developer** with a Bachelor
 
 I have expertise in a variety of technologies, including but not limited to:
 
-- **Frontend:** HTML, CSS, JavaScript, React.js 💻
-- **Backend:** Node.js, Express.js 🖥️
+- **Frontend:** HTML, CSS, JavaScript, React.js, AJAX, jQuery 💻
+- **Backend:** Node.js, Express.js, PHP 🖥️
 - **Databases:** MongoDB, MySQL 📊
 - **Version Control:** Git, GitHub 📂
 - **Web Design:** Responsive Web Design, UI/UX Principles 🎨
