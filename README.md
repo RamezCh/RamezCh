@@ -43,3 +43,5 @@ Stay tuned for more web applications, tools, and utilities built with the latest
 ## Contact Me 📞
 
 Feel free to reach out for collaboration, questions, or just to say hello. Thank you for visiting my GitHub profile! I look forward to connecting with you and sharing my coding journey. 🙌
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ramez-chreide/)
