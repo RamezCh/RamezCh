@@ -36,13 +36,12 @@
 
 ## 🏢 Projects
 
-
 <ul style="list-style: none;">
-  <li><a href="https://github.com/RamezCh/TradeHub">🔗 TradeHub E-Commerce Full-Stack MERN</a></li>
-  <li><a href="https://github.com/RamezCh/ToDo-Backend">🔗 ToDo Backend</a></li>
-  <li><a href="https://github.com/RamezCh/flask_machine_translation_eng_fr">🔗 Machine Translation Seq2Seq</a></li>
-  <li><a href="https://github.com/RamezCh/CI-CD-using-Docker-Jenkins-Pipeline">🔗 CI/CD Docker & Jenkins</a></li>
-  <li><a href="https://github.com/RamezCh/Automating-Infrastructure-using-Terraform">🔗 IaC Terraform</a></li>
+  <li><a href="https://github.com/RamezCh/TradeHub" target="_blank">🔗 TradeHub E-Commerce Full-Stack MERN</a></li>
+  <li><a href="https://github.com/RamezCh/ToDo-Backend" target="_blank">🔗 ToDo Backend</a></li>
+  <li><a href="https://github.com/RamezCh/flask_machine_translation_eng_fr" target="_blank">🔗 Machine Translation Seq2Seq</a></li>
+  <li><a href="https://github.com/RamezCh/CI-CD-using-Docker-Jenkins-Pipeline" target="_blank">🔗 CI/CD Docker & Jenkins</a></li>
+  <li><a href="https://github.com/RamezCh/Automating-Infrastructure-using-Terraform" target="_blank">🔗 IaC Terraform</a></li>
 </ul>
 
 ---
