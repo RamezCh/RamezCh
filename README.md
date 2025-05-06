@@ -2,7 +2,7 @@
 
 ---
 
-<h2 align="center">📊 Github Stats</h2>
+<h2>📊 Github Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RamezCh&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api?username=RamezCh&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
@@ -26,19 +26,19 @@
 
 ---
 
+<div align="center">
+
 ## ⚙️ Tech Stack
 
-### Frontend: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40"/>
+| Frontend | Backend | Databases |
+|----------|---------|-----------|
+| ![Frontend](https://skillicons.dev/icons?i=html,css,js,jquery,ts,react) | ![Backend](https://skillicons.dev/icons?i=spring,java,python,nodejs,express,php) | ![Databases](https://skillicons.dev/icons?i=mongodb,postgresql,mysql) |
 
-### Backend: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> <img src="https://img.icons8.com/fluent/48/000000/laravel.png" alt="laravel" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+| Version Control | DevOps | Other Tools |
+|------------------|--------|-------------|
+| ![Git & GitHub](https://skillicons.dev/icons?i=git,github) | ![DevOps](https://skillicons.dev/icons?i=jenkins,ansible,terraform,docker,kubernetes,aws) | ![Tools](https://skillicons.dev/icons?i=postman,vscode,arduino)|
 
-### Databases: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-
-### Version Control: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-
-### DevOps: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Jinja_software_logo.svg" alt="jinja2" width="70" height="40"/> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
-
-### Other Tools: <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+</div>
 
 ---
 
