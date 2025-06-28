@@ -39,8 +39,3 @@
 | ![Git & GitHub](https://skillicons.dev/icons?i=git,github) | ![DevOps](https://skillicons.dev/icons?i=jenkins,ansible,terraform,docker,kubernetes,aws) | ![Tools](https://skillicons.dev/icons?i=postman,vscode,arduino)|
 
 </div>
-
----
-
-## 🔗 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ramez-chreide/)
