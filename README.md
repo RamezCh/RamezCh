@@ -8,13 +8,13 @@
   <img src="https://i.pinimg.com/originals/61/b2/d3/61b2d33f39927afa72e5f57a28cc7c83.gif" width="300" alt="Family waving"/>
   <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" width="250" alt="Code eat sleep repeat"/>
   <img src="https://valorantinfo.com/images/us/in-the-zone-spray_valorant_gif_61933.gif" width="250" alt="ISO from valorant walking"/>
-</div>
+</div> 
 
-👨‍👩‍👦 **Family-Oriented** | 💡 **Passionate Learner** | 🎮 **Valorant Enthusiast**  
+<br/>
 
 - 🚀 I love learning new technologies and improving my skills every day.  
 - 👨‍👩‍👦 When I’m not coding, I enjoy spending quality time with my family.  
-- 🎯 You’ll often find me playing **Valorant** on the weekend.
+- 🎯 You’ll often find me playing **League of Legends** on the weekend.
 
 ---
 
@@ -24,7 +24,7 @@
 
 | Frontend | Backend | Databases |
 |----------|---------|-----------|
-| ![Frontend](https://skillicons.dev/icons?i=html,css,js,jquery,ts,react) | ![Backend](https://skillicons.dev/icons?i=spring,java,python,nodejs,express,php) | ![Databases](https://skillicons.dev/icons?i=mongodb,postgresql,mysql) |
+| ![Frontend](https://skillicons.dev/icons?i=html,css,js,jquery,ts,react) | ![Backend](https://skillicons.dev/icons?i=spring,java,python,nodejs,express) | ![Databases](https://skillicons.dev/icons?i=mongodb,postgresql,mysql) |
 
 | Version Control | DevOps | Other Tools |
 |------------------|--------|-------------|
